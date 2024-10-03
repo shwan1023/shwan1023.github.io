@@ -9,7 +9,7 @@ redirect_from:
 
 Hi there! Welcome to my homepage!
 
-I am **Sihao Wan**, an incoming graduate student at the College of Intelligence and Computing (CIC), Tianjin University. In September 2025, I will begin my master's degree under the supervision of Professor Bo Wang at Tianjin University. The same year, I will receive my bachelor's degree from the College of Computer Science and Engineering, Shandong University of Science and Technology.
+I am **Sihao Wan**, an incoming graduate student at the [College of Intelligence and Computing (CIC)](https://cic.tju.edu.cn/), [Tianjin University](https://www.tju.edu.cn/). In September 2025, I will begin my master’s degree under the supervision of [Professor Bo Wang](https://cic.tju.edu.cn/faculty/wangbo/index.htm) at [Tianjin University](https://www.tju.edu.cn/). The same year, I will receive my bachelor’s degree from the [College of Computer Science and Engineering](https://cise.sdust.edu.cn/), [Shandong University of Science and Technology](https://www.sdust.edu.cn/).
 
 Research Interests
 ------
