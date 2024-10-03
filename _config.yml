@@ -22,13 +22,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Sihao Wan (万思昊)"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  bio              : "Tianjin University"
+  location         : "Tianjin, China"
+  employer         : #"Red Brick University"
+  uri              : ## URL
+  email            : "workflow.wan@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
