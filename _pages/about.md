@@ -14,8 +14,7 @@ I am **Sihao Wan**, a first-year postgraduate student at the School of Future Te
 Research Interests
 ------
 
-- My technical interests span AI, hardware-software co-design, IoT, and algorithm development. I have developed several DIY projects that offer practical solutions and value to society.
-- In the past, I have worked on topics such as Computer Vision (CV), Time Series Forecasting (TSF), Vehicular Networks (V2X), and Multi-Agent Reinforcement Learning (MARL). These projects have been driven by a mix of interest and hands-on experience over the years.
+- Previously, my hands-on experience and interests have driven me to work on topics such as hardware-software co-design AIoT(e.g., DIY projects), Computer Vision (CV), Time Series Forecasting (TSF), Vehicular Networks (V2X), Multi-Agent Reinforcement Learning (MARL) and GenAI.
 - Currently, my primary research focus is on **Large Language Models (LLMs)**. My current work is specifically centered on LLM Planning, with a particular emphasis on the collaboration between LRM (Large Reasoning Model) planning and SLM (Small Language Model) agent cluster execution. Consequently, I am also interested in Engineering (e.g., project operation research), Graph Theory (e.g., action topology space), and Control Theory (parallel, asynchronous, PI controllers, Chain-of-Thought control).
-- In the future, I aspire to combine academic research with practical engineering to continue creating products that deliver real-world social impact.
+- My technical span includes algorithm and system architecture design. Moving forward, I aspire to strategically combine academic research with practical engineering to continue creating products and systems that deliver real-world social impact.
 
